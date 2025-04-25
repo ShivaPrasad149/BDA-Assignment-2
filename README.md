@@ -1,5 +1,4 @@
 # BDA-Assignment-2
-# Iris Dataset Analysis Using PySpark
 
 ## Overview
 This repository demonstrates both **supervised** and **unsupervised** machine learning approaches on the Iris dataset using PySpark. The aim is to classify iris flower species and group them into clusters using two different models:
